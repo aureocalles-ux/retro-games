@@ -1,0 +1,53 @@
+{
+  "backLabel": "← BACK TO LIBRARY",
+  "gameInfoTitle": "GAME INFO",
+  "controlsTitle": "CONTROLS",
+  "notFoundMessage": "GAME NOT FOUND",
+  "controls": [
+    {
+      "id": "ctrl-arrows",
+      "key": "ARROW KEYS",
+      "action": "Move / D-Pad"
+    },
+    {
+      "id": "ctrl-z",
+      "key": "Z",
+      "action": "A Button"
+    },
+    {
+      "id": "ctrl-x",
+      "key": "X",
+      "action": "B Button"
+    },
+    {
+      "id": "ctrl-a",
+      "key": "A",
+      "action": "Y Button"
+    },
+    {
+      "id": "ctrl-s",
+      "key": "S",
+      "action": "X Button"
+    },
+    {
+      "id": "ctrl-enter",
+      "key": "ENTER",
+      "action": "Start"
+    },
+    {
+      "id": "ctrl-shift",
+      "key": "SHIFT",
+      "action": "Select"
+    },
+    {
+      "id": "ctrl-f1",
+      "key": "F1",
+      "action": "Save State"
+    },
+    {
+      "id": "ctrl-f2",
+      "key": "F2",
+      "action": "Load State"
+    }
+  ]
+}

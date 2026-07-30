@@ -1,0 +1,22 @@
+{
+  "heroTitle": "RETROPLAY",
+  "heroSubtitle": "INSERT COIN TO PLAY",
+  "libraryTitle": "GAME LIBRARY",
+  "stats": [
+    {
+      "id": "stat-games",
+      "label": "50+ GAMES",
+      "color": "#00ffff"
+    },
+    {
+      "id": "stat-consoles",
+      "label": "10 CONSOLES",
+      "color": "#ff00ff"
+    },
+    {
+      "id": "stat-free",
+      "label": "FREE TO PLAY",
+      "color": "#00ff41"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "games/super-mario-world": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/games-super-mario-world-0a6978e2.webp",
+    "searchQuery": "super mario all-stars video game characters",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1663144902",
+      "https://img1.wsimg.com/isteam/getty/2256495544",
+      "https://img1.wsimg.com/isteam/getty/2235461759"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-29T22:11:45.101Z",
+    "lastUpdated": "2026-07-30T17:12:26.663Z",
+    "alternativeGettyIds": [
+      "1663144902",
+      "2256495544",
+      "2235461759"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "moods": "vivid,bold",
+    "graphicalStyles": "illustration",
+    "uploadSources": {
+      "/airo-assets/uploads/games-super-mario-world-0a6978e2.webp": "1ys3c3fob3_1785431538696_file_xS5p2zqbjF.webp"
+    },
+    "uploadContentHash": "f62a55b75ae641576785401e627552fa1e803e2b759c1623a692acda3c2c143a",
+    "caption": "super mario all-stars video game characters"
+  },
+  "games/donkey-kong-country": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1426248306",
+    "searchQuery": "jungle adventure retro pixel art game",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/584783176",
+      "https://img1.wsimg.com/isteam/getty/453646069"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:11:46.178Z",
+    "lastUpdated": "2026-07-29T22:11:46.178Z",
+    "gettyId": "1426248306",
+    "alternativeGettyIds": [
+      "584783176",
+      "453646069"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "moods": "vivid",
+    "graphicalStyles": "illustration"
+  },
+  "games/super-metroid": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1663143692",
+    "searchQuery": "dark sci-fi space alien neon retro game art",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1226983692",
+      "https://img1.wsimg.com/isteam/getty/1248973885"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:11:48.299Z",
+    "lastUpdated": "2026-07-29T22:11:48.299Z",
+    "gettyId": "1663143692",
+    "alternativeGettyIds": [
+      "1226983692",
+      "1248973885"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "moods": "dramatic,bold",
+    "graphicalStyles": "illustration"
+  },
+  "games/chrono-trigger": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1893527144",
+    "searchQuery": "fantasy RPG time travel adventure retro illustration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1418911447",
+      "https://img1.wsimg.com/isteam/getty/2280651735"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:11:50.099Z",
+    "lastUpdated": "2026-07-29T22:11:50.099Z",
+    "gettyId": "1893527144",
+    "alternativeGettyIds": [
+      "1418911447",
+      "2280651735"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "moods": "vivid,dramatic",
+    "graphicalStyles": "illustration"
+  },
+  "games/super-mario-bros": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2228612373",
+    "searchQuery": "classic platformer game pixel art mushroom coins",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1340226684",
+      "https://img1.wsimg.com/isteam/getty/2237025750"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:11:50.943Z",
+    "lastUpdated": "2026-07-29T22:11:50.943Z",
+    "gettyId": "2228612373",
+    "alternativeGettyIds": [
+      "1340226684",
+      "2237025750"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "moods": "vivid,bold",
+    "graphicalStyles": "illustration"
+  },
+  "games/mega-man-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/945926270",
+    "searchQuery": "robot action hero blue neon retro game illustration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1421556136",
+      "https://img1.wsimg.com/isteam/getty/1453439394"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:11:52.164Z",
+    "lastUpdated": "2026-07-29T22:11:52.164Z",
+    "gettyId": "945926270",
+    "alternativeGettyIds": [
+      "1421556136",
+      "1453439394"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "moods": "bold,vivid",
+    "graphicalStyles": "illustration"
+  },
+  "games/sonic-the-hedgehog": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2204318092",
+    "searchQuery": "speed running neon blue fast retro game illustration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2277030658",
+      "https://img1.wsimg.com/isteam/getty/2259718626"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:11:53.905Z",
+    "lastUpdated": "2026-07-29T22:11:53.905Z",
+    "gettyId": "2204318092",
+    "alternativeGettyIds": [
+      "2277030658",
+      "2259718626"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "moods": "vivid,bold",
+    "graphicalStyles": "illustration"
+  },
+  "games/streets-of-rage": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2259457201",
+    "searchQuery": "urban street fight neon city night retro game art",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1369733873",
+      "https://img1.wsimg.com/isteam/getty/2065684633"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:11:55.159Z",
+    "lastUpdated": "2026-07-29T22:11:55.159Z",
+    "gettyId": "2259457201",
+    "alternativeGettyIds": [
+      "1369733873",
+      "2065684633"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "moods": "dramatic,bold",
+    "graphicalStyles": "illustration"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-transparent-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png",
+    "searchQuery": "A pixel-art retro arcade logo for \"RetroPlay\" — bold blocky pixel lettering spel",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-transparent-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-original-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-transparent-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-transparent-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-transparent-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png": {
+        "sessionId": "00ca2ab6-c160-4ad8-95f6-aa61bd8af419",
+        "logoId": "833e1a42-db30-4bb7-8d0b-4e0423618404",
+        "groupId": "602c691b-fe2a-41f3-9d02-4d65e4bab090"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-transparent-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-mockup-mug-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-mockup-card-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-mockup-tshirt-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-mockup-box-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-mockup-mug-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-mockup-card-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-mockup-tshirt-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-mockup-box-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:12:20.048Z",
+    "lastUpdated": "2026-07-29T22:13:17.448Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0a0a",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/00ca2ab6-c160-4ad8-95f6-aa61bd8af419/horizontal-transparent-833e1a42-db30-4bb7-8d0b-4e0423618404/logo-logo.png",
+    "logoGroupId": "602c691b-fe2a-41f3-9d02-4d65e4bab090"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/c63a5023-3bfd-4abb-851b-a92a02f554de/favicon-transparent-9458e6cd-ae4c-4f8c-aa74-f7cb1fb60ba4/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/c63a5023-3bfd-4abb-851b-a92a02f554de/favicon-transparent-9458e6cd-ae4c-4f8c-aa74-f7cb1fb60ba4/logo-logo.png": {
+        "sessionId": "c63a5023-3bfd-4abb-851b-a92a02f554de",
+        "logoId": "9458e6cd-ae4c-4f8c-aa74-f7cb1fb60ba4",
+        "groupId": "602c691b-fe2a-41f3-9d02-4d65e4bab090"
+      }
+    },
+    "logoGroupId": "602c691b-fe2a-41f3-9d02-4d65e4bab090",
+    "userModified": false,
+    "createdAt": "2026-07-29T22:12:59.310Z",
+    "lastUpdated": "2026-07-29T22:13:17.598Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0a0a",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/7a747d86-db7d-4da2-96a9-07d5f6b00e91/session/c63a5023-3bfd-4abb-851b-a92a02f554de/favicon-transparent-9458e6cd-ae4c-4f8c-aa74-f7cb1fb60ba4/logo-logo.png"
+  },
+  "games/contra": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1339093573",
+    "searchQuery": "contra retro action shooter military neon arcade pixel art",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2213498615",
+      "https://img1.wsimg.com/isteam/getty/2121741575"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:30:52.573Z",
+    "lastUpdated": "2026-07-29T22:30:52.573Z",
+    "gettyId": "1339093573",
+    "alternativeGettyIds": [
+      "2213498615",
+      "2121741575"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold,dramatic",
+    "graphicalStyles": "illustration"
+  },
+  "games/golden-axe": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/832530858",
+    "searchQuery": "golden axe fantasy sword warrior retro arcade neon pixel art",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2276265854",
+      "https://img1.wsimg.com/isteam/getty/1744747914"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:30:56.804Z",
+    "lastUpdated": "2026-07-29T22:30:56.804Z",
+    "gettyId": "832530858",
+    "alternativeGettyIds": [
+      "2276265854",
+      "1744747914"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold,dramatic",
+    "graphicalStyles": "illustration"
+  },
+  "games/fire-emblem": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2267110518",
+    "searchQuery": "fire emblem retro strategy RPG fantasy sword magic pixel art",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/535766621",
+      "https://img1.wsimg.com/isteam/getty/2197393407"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:30:58.354Z",
+    "lastUpdated": "2026-07-29T22:30:58.354Z",
+    "gettyId": "2267110518",
+    "alternativeGettyIds": [
+      "535766621",
+      "2197393407"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "illustration"
+  },
+  "games/metroid-fusion": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2254246813",
+    "searchQuery": "metroid fusion sci-fi space alien dark neon retro pixel art GBA",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2236903868",
+      "https://img1.wsimg.com/isteam/getty/1039773254"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:30:59.343Z",
+    "lastUpdated": "2026-07-29T22:30:59.343Z",
+    "gettyId": "2254246813",
+    "alternativeGettyIds": [
+      "2236903868",
+      "1039773254"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,cool",
+    "graphicalStyles": "illustration"
+  },
+  "games/castlevania": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1285820919",
+    "searchQuery": "castlevania gothic horror vampire castle retro dark neon pixel art",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1603388906",
+      "https://img1.wsimg.com/isteam/getty/2170883118"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:31:00.730Z",
+    "lastUpdated": "2026-07-29T22:31:00.730Z",
+    "gettyId": "1285820919",
+    "alternativeGettyIds": [
+      "1603388906",
+      "2170883118"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "illustration"
+  },
+  "games/legend-of-zelda": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2263639958",
+    "searchQuery": "fantasy dungeon adventure sword shield retro pixel art neon",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1341044106",
+      "https://img1.wsimg.com/isteam/getty/2219632541"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:31:05.747Z",
+    "lastUpdated": "2026-07-29T22:31:05.747Z",
+    "gettyId": "2263639958",
+    "alternativeGettyIds": [
+      "1341044106",
+      "2219632541"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "illustration"
+  },
+  "games/mortal-kombat": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1298834196",
+    "searchQuery": "fighting game martial arts neon dark retro arcade action",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2275572353",
+      "https://img1.wsimg.com/isteam/getty/2095939785"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:31:07.187Z",
+    "lastUpdated": "2026-07-29T22:31:07.187Z",
+    "gettyId": "1298834196",
+    "alternativeGettyIds": [
+      "2275572353",
+      "2095939785"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "illustration"
+  },
+  "games/pokemon-emerald": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2207338377",
+    "searchQuery": "retro handheld RPG game colorful adventure pixel art",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2274024397",
+      "https://img1.wsimg.com/isteam/getty/2267110518"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-29T22:31:12.678Z",
+    "lastUpdated": "2026-07-29T22:31:12.678Z",
+    "gettyId": "2207338377",
+    "alternativeGettyIds": [
+      "2274024397",
+      "2267110518"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  }
+}
